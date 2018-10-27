@@ -1,0 +1,27 @@
+.igra{
+    width: 408px;
+    margin: 0 auto;
+	margin-top:110px;
+
+}
+.igra div{
+	float:left;
+	border-radius:10px;
+    width: 75px;
+    height: 75px;
+    border: 1px solid #FF9800;
+    cursor: pointer;
+    margin:2px;
+	box-shadow: 10px 10px 10px #000;
+	background: #FFEB3B;
+}
+
+.igra div:hover{
+	opacity:0.5;
+}
+
+
+
+
+
+
